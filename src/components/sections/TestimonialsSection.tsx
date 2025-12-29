@@ -8,7 +8,7 @@ const TestimonialsSection = () => {
       role: "Aluno",
       duration: "Treinando atualmente",
       rating: 5,
-      text: "Demorou, vamos la, comecei a semana bem fraco pra treino de peito, mas consegui por muita intensidade nos outros exercícios, senti evolução na força em exercícios de biceps e triceps e ombro, e principalmente com o agacho, hoje fiz o melhor treino de perna da vida, nao sei explicar mas depois desse legday cheguei feliz em casa, bem humorado. Provavelmente nao vamos ver diferença nas medidas pq minha alimentação ta zuadissima mas conseguirei investir pro próximo mês\n\nMas eu to evoluindo muito sob sua tutela meu querido, é um alivio estar nas mãos desse tipo de profissional.\n\nComo seguirei minha carreira com o jiu, preciso alinhar contigo alem do sistema de treino voltado pra força, meu esporte demanda muito da condicionamento, tenho feito cardio todo dia antes de dormir, 3 km em baixa intensidade (intercalando entre trote e caminhada).",
+      text: "Comecei a semana fraco no treino de peito, mas consegui colocar muita intensidade nos outros exercícios. Evoluí bastante na força, principalmente em bíceps, tríceps, ombro e no agachamento fiz o melhor treino de perna da minha vida e cheguei em casa feliz e bem-humorado. Mesmo com a alimentação desregulada, sinto que estou evoluindo muito sob sua tutela. É um alívio estar nas mãos de um profissional assim.",
       image: null,
     },
     {
@@ -16,7 +16,7 @@ const TestimonialsSection = () => {
       role: "Aluna",
       duration: "Treinando atualmente",
       rating: 5,
-      text: "Essa semana foi pesada, mas muito positiva. Consegui trabalhar bem toda a divisão de treino e senti bastante o estímulo muscular (inclusive ainda estou sentindo). Também melhorei ainda mais a alimentação, o que refletiu diretamente na minha disposição.\n\nTenho gostado muito de cada semana, pois sempre percebo uma evolução física, o que me dá ainda mais motivação para treinar mais pesado e com foco.\n\nQuero aproveitar para agradecer por toda a companhia e orientação ao longo desta semana. Os momentos lá têm sido maravilhosos, e tenho aprendido muita coisa que com certeza levarei para a vida, desde conselhos até técnicas.\n\nFoi uma semana sensacional, extremamente produtiva. Graças a Deus, não tenho nada a reclamar.",
+      text: "Semana pesada, mas muito positiva. Consegui trabalhar bem toda a divisão de treino, senti bastante o estímulo muscular e melhorei a alimentação, o que refletiu na disposição. A cada semana percebo evolução física, o que aumenta ainda mais minha motivação.\n\nAgradeço pela orientação e companhia  tem sido uma experiência incrível e muito produtiva.",
       image: null,
     },
     {
@@ -24,7 +24,7 @@ const TestimonialsSection = () => {
       role: "Aluna",
       duration: "Treinando atualmente",
       rating: 5,
-      text: "Obrigado, Caio! ❤️\nDesde que fechamos, tenho percebido muitas mudanças. Eu realmente não imaginava ficar tão firme assim na academia — e quem diria gostar de sentir dor, né? 😂\nTudo o que conquistei até agora foi graças ao seu profissionalismo, cuidado e total atenção comigo. Posso dizer que é muito gratificante ver isso, principalmente porque, infelizmente, vemos muitos alunos sofrerem pela falta de atenção de professores ou até mesmo de personal trainers — e aqui isso não acontece.\nTambém sinto muito orgulho da pessoa e do profissional que você é. Seu comprometimento faz toda a diferença e reflete diretamente nos resultados. Sou muito grata por tudo",
+      text: "Obrigado, Caio! ❤️ Desde que começamos, percebo muitas mudanças e uma constância que eu não imaginava ter. Tudo isso graças ao seu profissionalismo, atenção e cuidado. Dá orgulho ver o profissional que você é e como isso reflete nos resultados. Sou muito grata por tudo.",
       image: null,
     },
     {

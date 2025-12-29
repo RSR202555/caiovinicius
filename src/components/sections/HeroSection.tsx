@@ -47,7 +47,7 @@ const HeroSection = () => {
         >
           <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/20 text-primary-foreground text-sm font-medium backdrop-blur-sm border border-primary/30">
             <Award className="w-4 h-4" />
-            +10 Anos de Experiência
+            +5 Anos de Experiência
           </span>
           <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/20 text-primary-foreground text-sm font-medium backdrop-blur-sm border border-primary/30">
             <Users className="w-4 h-4" />
@@ -150,7 +150,7 @@ const HeroSection = () => {
             </div>
             <div className="text-left">
               <div className="flex items-center gap-1 text-yellow-500">
-                <span className="font-bold text-primary-foreground">+1000</span>
+                <span className="font-bold text-primary-foreground">+500</span>
                 {[1, 2, 3, 4, 5].map((i) => (
                   <span key={i}>★</span>
                 ))}

@@ -25,33 +25,33 @@ const TransformationsSection = () => {
 
   const transformations = [
     {
-      name: "Carlos Mendes",
-      testimonial: "Perdi 20kg e ganhei confiança. Mudou minha vida!",
+      name: "Marina Santos",
+      testimonial: "Transformação 1",
       image: transformation1,
     },
     {
-      name: "Marina Santos",
-      testimonial: "Consegui ganhar massa muscular de forma saudável.",
+      name: "Carlos Mendes",
+      testimonial: "Transformação 2",
       image: transformation2,
     },
     {
       name: "Roberto Silva",
-      testimonial: "Voltei a correr e ter disposição para brincar com meus filhos.",
+      testimonial: "Transformação 3",
       image: transformation3,
     },
     {
       name: "Juliana Costa",
-      testimonial: "Realizei o sonho de vestir as roupas que sempre quis.",
+      testimonial: "Transformação 4",
       image: transformation4,
     },
     {
-      name: "Transformação 5",
-      testimonial: "",
+      name: "Fernanda Almeida",
+      testimonial: "Transformação 5",
       image: transformation5,
     },
     {
-      name: "Transformação 6",
-      testimonial: "",
+      name: "Camila Ferreira",
+      testimonial: "Transformação 6",
       image: transformation6,
     },
   ];
