@@ -18,7 +18,7 @@ const FAQSection = () => {
     },
     {
       question: "Onde são realizados os treinos?",
-      answer: "Ofereço treinos presenciais em academia parceira na zona sul de São Paulo, além de opção de treino online com acompanhamento via app para quem prefere malhar em casa ou em outra academia.",
+      answer: "Ofereço treinos presenciais em academia parceira na Cidade de Uberlândia, além de opção de treino online com acompanhamento via app para quem prefere malhar em casa ou em outra academia.",
     },
     {
       question: "Como funciona o acompanhamento diário?",
