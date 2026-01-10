@@ -13,7 +13,7 @@ const Navbar = () => {
   const [open, setOpen] = useState(false);
 
   const instagramLink = "https://instagram.com/caiov.personal";
-  const whatsappLink = "https://wa.me/5534998960962";
+  const whatsappLink = "https://wa.me/553498960962";
 
   const items = useMemo<NavItem[]>(
     () => [

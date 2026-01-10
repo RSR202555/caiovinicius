@@ -101,7 +101,7 @@ const FAQSection = () => {
           <p className="text-muted-foreground">
             Ainda tem dúvidas?{" "}
             <a
-              href="https://wa.me/5534998960962?text=Olá! Tenho uma dúvida sobre os treinos."
+              href="https://wa.me/553498960962?text=Olá! Tenho uma dúvida sobre os treinos."
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary hover:underline font-semibold"

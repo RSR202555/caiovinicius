@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 
 const PlansSection = () => {
   const whatsappLink = (plan: string) =>
-    `https://wa.me/5534998960962?text=Olá! Tenho interesse no plano ${plan}.`;
+    `https://wa.me/553498960962?text=Olá! Tenho interesse no plano ${plan}.`;
 
   const plans = [
     {

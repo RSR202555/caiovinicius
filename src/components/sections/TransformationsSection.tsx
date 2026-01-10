@@ -150,7 +150,7 @@ const TransformationsSection = () => {
           <p className="text-lg text-foreground font-medium">
             🎯 Quer ser o próximo caso de sucesso?{" "}
             <a
-              href="https://wa.me/5534998960962?text=Quero iniciar minha transformação!"
+              href="https://wa.me/553498960962?text=Quero iniciar minha transformação!"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary hover:underline font-semibold"

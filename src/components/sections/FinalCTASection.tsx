@@ -3,7 +3,7 @@ import { MessageCircle, Clock, Shield, Zap, Gift } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const FinalCTASection = () => {
-  const whatsappLink = "https://wa.me/5534998960962?text=Olá! Estou pronto para começar minha transformação!";
+  const whatsappLink = "https://wa.me/553498960962?text=Olá! Estou pronto para começar minha transformação!";
 
   const guarantees = [
     { icon: Clock, text: "Primeira avaliação gratuita" },
