@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { MessageCircle } from "lucide-react";
 
 const WhatsAppFloat = () => {
-  const whatsappLink = "https://wa.me/5534993160962?text=Olá! Gostaria de saber mais sobre os treinos personalizados.";
+  const whatsappLink = "https://wa.me/5534998960962?text=Olá! Gostaria de saber mais sobre os treinos personalizados.";
 
   return (
     <motion.a

@@ -6,7 +6,7 @@ const FooterSection = () => {
 
   const socialLinks = [
     { icon: Instagram, href: "https://instagram.com/caiov.personal", label: "Instagram" },
-    { icon: MessageCircle, href: "https://wa.me/5534993160962", label: "WhatsApp" },
+    { icon: MessageCircle, href: "https://wa.me/5534998960962", label: "WhatsApp" },
   ];
 
   const quickLinks = [
@@ -83,8 +83,8 @@ const FooterSection = () => {
             <ul className="space-y-3">
               <li className="flex items-center gap-3 text-primary-foreground/70">
                 <Phone className="w-4 h-4 text-primary" />
-                <a href="tel:+5534993160962" className="hover:text-primary transition-colors">
-                  (34) 99316-0962
+                <a href="tel:+5534998960962" className="hover:text-primary transition-colors">
+                  (34) 99896-0962
                 </a>
               </li>
               <li className="flex items-start gap-3 text-primary-foreground/70">
@@ -106,7 +106,7 @@ const FooterSection = () => {
               Agende sua avaliação gratuita e dê o primeiro passo rumo à sua transformação.
             </p>
             <a
-              href="https://wa.me/5534993160962?text=Olá! Quero agendar minha avaliação gratuita."
+              href="https://wa.me/5534998960962?text=Olá! Quero agendar minha avaliação gratuita."
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-5 py-2.5 bg-primary text-primary-foreground rounded-lg font-semibold hover:bg-primary/90 transition-colors"
